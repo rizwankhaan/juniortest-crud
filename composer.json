@@ -1,0 +1,14 @@
+{
+    "name": "rizwan/scandiwebtest",
+    "description": "test project for scandiweb",
+    "type": "project",
+    "authors": [{
+        "name": "Rizwan Khan",
+        "email": "rizwan2fb@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "TestApp\\": "classes"
+        }
+    }
+}
